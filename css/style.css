@@ -184,7 +184,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background-image: url(../../assets/svg/common-bg.svg);
+  background-image: url(../../assets/svg/common-bg.svg), linear-gradient(to right, #6DB3F2, #6DB3F2);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -197,8 +197,8 @@ textarea {
   .home-hero__socials {
     position: absolute;
     top: 50%;
-    border: 2px solid rgba(238, 238, 238, 0);
-    border-left: 2px solid rgba(238, 238, 238, 0);
+    border: 2px solid rgb(238, 238, 238);
+    border-left: 2px solid rgb(238, 238, 238);
     transform: translateY(-50%); }
     @media only screen and (max-width: 56.25em) {
       .home-hero__socials {
