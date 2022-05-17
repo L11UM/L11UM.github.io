@@ -1,22 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "name": "ui-kit",
-  "version": "1.0.0",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "browser-sync": "^2.26.5",
-    "gulp": "^4.0.2",
-    "gulp-concat-css": "^3.1.0",
-    "gulp-sass": "^4.0.2"
-  },
-  "description": ""
-=======
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -67,5 +49,4 @@
     "> 1%",
     "last 2 versions"
   ]
->>>>>>> Stashed changes
 }
