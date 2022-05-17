@@ -184,7 +184,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background:  url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 99, 185, 0), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -322,7 +322,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 99, 185, 0), rgba(0, 99, 185, 0)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -598,7 +598,7 @@ textarea {
     letter-spacing: 2px;
     transition: color .3s; }
     .header__sm-menu-link a:hover {
-      color: #050d14; }
+      color: #01437c; }
   .header__sm-menu-link:first-child a {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
