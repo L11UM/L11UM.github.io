@@ -1,2 +1,2 @@
-Creating Site fore Energy Insurance Services
+Site created by Liam Thompson for Energy Insurance Services
 
