@@ -5,15 +5,15 @@
       <h1>LiiUM</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer"
+      <a id="github" href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
       >
       <span>/</span>
-      <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
+      <a id="sspai" href="" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/sspai.svg" />Writer</a
       >
       <span>/</span>
-      <a id="blog" href="https://blog.spencerwoo.com" target="_blank" rel="noopener noreferrer"
+      <a id="blog" href="" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
       >
     </div>
